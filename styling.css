@@ -88,6 +88,24 @@ h1{
 }
 
 
+#pcaro{
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.6;
+
+}
+
+#footh3{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+#foot{
+    color: white;
+    
+}
 
 
 @media(orientation:portrait)
